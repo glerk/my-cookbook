@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Random/Chicken Orzo Bake.md",
-                "mode": "preview",
+                "file": "docs/Template.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chicken Orzo Bake"
+              "title": "Template"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Random/Chicken Orzo Bake.md",
+                "file": "docs/Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chicken Orzo Bake"
+              "title": "Backlinks for Template"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Random/Chicken Orzo Bake.md",
+                "file": "docs/Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chicken Orzo Bake"
+              "title": "Outgoing links from Template"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Random/Chicken Orzo Bake.md",
+                "file": "docs/Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chicken Orzo Bake"
+              "title": "Outline of Template"
             }
           }
         ]
@@ -186,15 +186,16 @@
   },
   "active": "0cd855d6b2496b49",
   "lastOpenFiles": [
+    "docs/index.md",
+    "docs/Template.md",
+    "docs/Random/Mexican Street Corn Chicken Orzo Bake.md",
     "docs/Random/Chicken Bake, Meal prep idea.md",
-    "docs/Random/Chicken Orzo Bake.md",
     "mk-docks.yaml.md",
     "docs/Random/One pot Taco-Rice.md",
     "docs/Random",
     "docs/Japanese/Miso-Katsu.md",
     "docs/Japanese/Gyudon.md",
     "docs/Japanese",
-    "docs/index.md",
     "docs/recipes/Random/One pot Taco-Rice.md",
     "docs/recipes/Random/Chicken Bake, Meal prep idea.md",
     "docs/recipes/Japanese/Miso-Katsu.md",
