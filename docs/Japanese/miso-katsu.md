@@ -1,5 +1,5 @@
 # Nagoya Miso Katsu (味噌カツ)
-
+![[miso-katsu.jpg]]
 **Serves:** 4  
 **Prep:** ~45 minutes  
 **Cook:** ~20 minutes  
