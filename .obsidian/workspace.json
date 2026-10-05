@@ -11,10 +11,14 @@
             "id": "0cd855d6b2496b49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/Random/chicken-bake-meal-prep-idea.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "chicken-bake-meal-prep-idea"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/Random/chicken-bake-meal-prep-idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for chicken-bake-meal-prep-idea"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/Random/chicken-bake-meal-prep-idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from chicken-bake-meal-prep-idea"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "docs/Random/chicken-bake-meal-prep-idea.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of chicken-bake-meal-prep-idea"
             }
           }
         ]
@@ -180,8 +187,8 @@
   "active": "0cd855d6b2496b49",
   "lastOpenFiles": [
     "docs/Random/one-pot-taco-rice.md",
-    "docs/Random/mexican-street-corn-chicken-orzo-bake.md",
     "docs/Random/chicken-bake-meal-prep-idea.md",
+    "docs/Random/mexican-street-corn-chicken-orzo-bake.md",
     "docs/Japanese/Miso-Katsu.md",
     "docs/Japanese/miso-katsu.md",
     "docs/Japanese/gyudon.md",
