@@ -2,13 +2,3 @@ site_name: Jason & Pearl's Cookbook!
 
 theme:
   name: material
-
-nav:
-  - Home: index.md
-  - Japanese:
-      - Gyudon: Japanese/gyudon.md
-      - Miso Katsu: Japanese/miso-katsu.md
-  - Random:
-      - Meal Prep - Chicken: Random/chicken-enchilada-rice-rake.md
-      - Mexican Street Corn Chicken Orzo Bake: Random/mexican-street-corn-chicken-orzo-bake.md
-      - One-Pot Cheesy Chicken Taco Rice: Random/one-pot-taco-rice.md
