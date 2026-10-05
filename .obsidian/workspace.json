@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Japanese/miso-katsu.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "miso-katsu"
+              "title": "index"
             }
           }
         ]
@@ -188,9 +188,9 @@
   },
   "active": "0cd855d6b2496b49",
   "lastOpenFiles": [
+    "docs/Japanese/miso-katsu.md",
     "docs/Japanese/gyudon.md",
     "assets/miso-katsu.jpg",
-    "docs/Japanese/miso-katsu.md",
     "docs/index.md",
     "assets/Image (2).jpg",
     "assets",
