@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Random/chicken-bake-meal-prep-idea.md",
+                "file": "docs/Random/chicken-enchilada-rice-rake.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chicken-bake-meal-prep-idea"
+              "title": "chicken-enchilada-rice-rake"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Random/chicken-bake-meal-prep-idea.md",
+                "file": "docs/Random/chicken-enchilada-rice-rake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for chicken-bake-meal-prep-idea"
+              "title": "Backlinks for chicken-enchilada-rice-rake"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Random/chicken-bake-meal-prep-idea.md",
+                "file": "docs/Random/chicken-enchilada-rice-rake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from chicken-bake-meal-prep-idea"
+              "title": "Outgoing links from chicken-enchilada-rice-rake"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Random/chicken-bake-meal-prep-idea.md",
+                "file": "docs/Random/chicken-enchilada-rice-rake.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of chicken-bake-meal-prep-idea"
+              "title": "Outline of chicken-enchilada-rice-rake"
             }
           }
         ]
@@ -187,7 +187,7 @@
   "active": "0cd855d6b2496b49",
   "lastOpenFiles": [
     "docs/Random/one-pot-taco-rice.md",
-    "docs/Random/chicken-bake-meal-prep-idea.md",
+    "docs/Random/chicken-enchilada-rice-rake.md",
     "docs/Random/mexican-street-corn-chicken-orzo-bake.md",
     "docs/Japanese/Miso-Katsu.md",
     "docs/Japanese/miso-katsu.md",
