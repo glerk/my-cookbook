@@ -11,8 +11,7 @@
 
 **Source:** [Just One Cookbook -- Miso  
 Katsu](https://www.justonecookbook.com/nagoya-miso-katsu/)  
-**Note:** This Obsidian version is adapted from the source recipe and  
-Includes a powdered-dashi adjustment.
+
 
 ---
 
