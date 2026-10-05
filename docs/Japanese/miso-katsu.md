@@ -1,5 +1,5 @@
 # Nagoya Miso Katsu (味噌カツ)
-![Miso Katsu](../assets/miso-katsu.jpg) { width="500" }/
+![Miso Katsu](../assets/miso-katsu.jpg)
 
 **Serves:** 4  
 **Prep:** ~45 minutes  
