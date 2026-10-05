@@ -2,3 +2,13 @@ site_name: Jason's Cookbook
 
 theme:
   name: material
+
+nav:
+  - Home: index.md
+  - Japanese:
+      - Gyudon: japanese/gyudon.md
+      - Miso Katsu: japanese/miso-katsu.md
+  - Random:
+      - Chicken Bake - Meal Prep Idea: random/chicken-bake-meal-prep-idea.md
+      - Mexican Street Corn Chicken Orzo Bake: random/mexican-street-corn-chicken-orzo-bake.md
+      - One-Pot Taco Rice: random/one-pot-taco-rice.md

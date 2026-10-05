@@ -11,14 +11,10 @@
             "id": "0cd855d6b2496b49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Japanese/Miso-Katsu.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Miso-Katsu"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Japanese/Miso-Katsu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Miso-Katsu"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Japanese/Miso-Katsu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Miso-Katsu"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Japanese/Miso-Katsu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Miso-Katsu"
+              "title": "Outline"
             }
           }
         ]
@@ -186,6 +179,12 @@
   },
   "active": "0cd855d6b2496b49",
   "lastOpenFiles": [
+    "docs/Random/one-pot-taco-rice.md",
+    "docs/Random/mexican-street-corn-chicken-orzo-bake.md",
+    "docs/Random/chicken-bake-meal-prep-idea.md",
+    "docs/Japanese/Miso-Katsu.md",
+    "docs/Japanese/miso-katsu.md",
+    "docs/Japanese/gyudon.md",
     "Template.md",
     "docs/Japanese/Gyudon.md",
     "docs/Template.md",
@@ -195,7 +194,6 @@
     "mk-docks.yaml.md",
     "docs/Random/One pot Taco-Rice.md",
     "docs/Random",
-    "docs/Japanese/Miso-Katsu.md",
     "docs/Japanese",
     "docs/recipes/Random/One pot Taco-Rice.md",
     "docs/recipes/Random/Chicken Bake, Meal prep idea.md",
@@ -216,8 +214,6 @@
     "Recipes/Random/Chicken Bake, Meal prep idea.md",
     "Recipes/Random/One pot Taco-Rice.md",
     "Recipes/Random.md",
-    "Recipes/Japanese/Miso-Katsu.md",
-    "Recipes/Japanese/Gyudon.md",
-    "README.md"
+    "Recipes/Japanese/Miso-Katsu.md"
   ]
 }
