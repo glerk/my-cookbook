@@ -8,7 +8,7 @@ Easy meals, experiments, meal-prep ideas, and recipes that we liked enough to wr
 
 ## Recipes
 
-- ** [Chicken Enchilada Rice Bake](chicken-enchilada-rice-rake.md) **  
+- ** [Chicken Enchilada Rice Bake](chicken-enchilada-rice-bake.md) **  
   A hearty chicken and rice bake with enchilada flavors.
 
 - ** [Mexican Street Corn Chicken Orzo Bake](mexican-street-corn-chicken-orzo-bake.md) **  
