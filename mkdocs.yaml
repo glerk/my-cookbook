@@ -6,9 +6,9 @@ theme:
 nav:
   - Home: index.md
   - Japanese:
-      - Gyudon: japanese/Gyudon.md
-      - Miso Katsu: japanese/Miso-Katsu.md
+      - Gyudon: Japanese/gyudon.md
+      - Miso Katsu: Japanese/miso-katsu.md
   - Random:
-      - Chicken Bake - Meal Prep Idea: random/Chicken Bake, Meal prep idea.md
-      - Mexican Street Corn Chicken Orzo Bake: random/Mexican Street Corn Chicken Orzo Bake.md
-      - One-Pot Taco Rice: random/One pot Taco-Rice.md
+      - Chicken Bake - Meal Prep Idea: Random/chicken-bake-meal-prep-idea.md
+      - Mexican Street Corn Chicken Orzo Bake: Random/mexican-street-corn-chicken-orzo-bake.md
+      - One-Pot Taco Rice: Random/one-pot-taco-rice.md
