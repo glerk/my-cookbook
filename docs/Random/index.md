@@ -1,0 +1,23 @@
+# 🍳 Random Stuff
+
+Everything that doesn't quite fit into another category.
+
+Easy meals, experiments, meal-prep ideas, and recipes that we liked enough to write down.
+
+---
+
+## Recipes
+
+- **Chicken Enchilada Rice Bake**  
+    A hearty chicken and rice bake with enchilada flavors.
+    
+- **Mexican Street Corn Chicken Orzo Bake**  
+    A creamy chicken and orzo bake inspired by Mexican street corn.
+    
+- **Taco Rice**  
+    An easy one-pot meal combining seasoned taco meat and rice.
+    
+
+---
+
+More recipes coming soon! 🌮
