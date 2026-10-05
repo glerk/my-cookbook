@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Random/index.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Random/index.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Random/index.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Random/index.md",
+                "file": "docs/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -186,13 +186,14 @@
   },
   "active": "0cd855d6b2496b49",
   "lastOpenFiles": [
-    "docs/Japanese/index.md",
+    "().md",
+    "docs/index.md",
     "docs/Random/index.md",
+    "docs/Japanese/index.md",
     "docs/Random/mexican-street-corn-chicken-orzo-bake.md",
     "docs/Japanese/gyudon.md",
     "docs/Random/chicken-enchilada-rice-bake.md",
     "docs/Random/one-pot-taco-rice.md",
-    "docs/index.md",
     "docs/Japanese/Miso-Katsu.md",
     "docs/Japanese/miso-katsu.md",
     "Template.md",
@@ -220,7 +221,6 @@
     "docs/Recipes",
     "docs",
     "mkdocs.yaml",
-    "Recipes/Random/Chicken Bake, Meal prep idea.md",
-    "Recipes/Random/One pot Taco-Rice.md"
+    "Recipes/Random/Chicken Bake, Meal prep idea.md"
   ]
 }
