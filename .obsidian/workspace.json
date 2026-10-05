@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/Japanese/miso-katsu.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -188,8 +188,10 @@
   },
   "active": "0cd855d6b2496b49",
   "lastOpenFiles": [
-    "docs/index.md",
+    "docs/Japanese/gyudon.md",
     "assets/miso-katsu.jpg",
+    "docs/Japanese/miso-katsu.md",
+    "docs/index.md",
     "assets/Image (2).jpg",
     "assets",
     "New folder",
@@ -198,10 +200,8 @@
     "docs/Random/index.md",
     "docs/Japanese/index.md",
     "docs/Random/mexican-street-corn-chicken-orzo-bake.md",
-    "docs/Japanese/gyudon.md",
     "docs/Random/chicken-enchilada-rice-bake.md",
     "docs/Japanese/Miso-Katsu.md",
-    "docs/Japanese/miso-katsu.md",
     "Template.md",
     "docs/Japanese/Gyudon.md",
     "docs/Template.md",
