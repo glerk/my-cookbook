@@ -10,7 +10,7 @@ This is where we're keeping the things we actually cook, recipes we're learning,
 
 Recipes inspired by Japanese cooking, including some favorites from our time in Japan.
 
-[Browse Japanese Recipes →](Japanese/gyudon.md)
+[Browse Japanese Recipes →](Japanese/index.md)
 
 ---
 
@@ -18,7 +18,7 @@ Recipes inspired by Japanese cooking, including some favorites from our time in 
 
 Everything else! Easy meals, experiments, meal-prep ideas, and recipes that don't quite fit anywhere else.
 
-[Browse Random Recipes →](Random/one-pot-taco-rice.md) 
+** [Browse Random Recipes →](Random/index.md)
 
 ---
 
