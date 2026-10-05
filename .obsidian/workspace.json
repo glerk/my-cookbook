@@ -188,6 +188,8 @@
   },
   "active": "0cd855d6b2496b49",
   "lastOpenFiles": [
+    "docs/assets/miso-katsu.jpg",
+    "docs/assets",
     "docs/index.md",
     "docs/Japanese/miso-katsu.md",
     "docs/Japanese/gyudon.md",
@@ -223,7 +225,6 @@
     "docs/Recipes/Japanese/Miso-Katsu.md",
     "docs/Recipes/Japanese/Gyudon.md",
     "docs/Recipes/Random",
-    "docs/Recipes/Japanese",
-    "docs/Recipes"
+    "docs/Recipes/Japanese"
   ]
 }
