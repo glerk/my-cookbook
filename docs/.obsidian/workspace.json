@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random/chicken-enchilada-rice-bake.md",
-                "mode": "source",
+                "file": "Japanese/miso-katsu.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chicken-enchilada-rice-bake"
+              "title": "miso-katsu"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random/chicken-enchilada-rice-bake.md",
+                "file": "Japanese/miso-katsu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random/chicken-enchilada-rice-bake.md",
+                "file": "Japanese/miso-katsu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random/chicken-enchilada-rice-bake.md",
+                "file": "Japanese/miso-katsu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,9 +185,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b7f33934f1352a45",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Random/chicken-enchilada-rice-bake.md"
+  ]
 }
