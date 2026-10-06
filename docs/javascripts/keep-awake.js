@@ -67,3 +67,7 @@ function createWakeLockButton() {
 }
 
 document.addEventListener("DOMContentLoaded", createWakeLockButton);
+
+document$.subscribe(function () {
+    createWakeLockButton();
+});
