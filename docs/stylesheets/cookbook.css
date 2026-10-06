@@ -1,0 +1,67 @@
+/* Cook Mode */
+
+.cook-mode {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 1.5em 0;
+    padding: 12px 16px;
+    border-radius: 10px;
+    background: var(--md-default-fg-color--lightest);
+    font-size: 0.95rem;
+}
+
+.cook-mode-label {
+    font-weight: 600;
+}
+
+.cook-mode-description {
+    color: var(--md-default-fg-color--light);
+    font-size: 0.9rem;
+}
+
+/* Toggle switch */
+
+.cook-mode-switch {
+    position: relative;
+    display: inline-block;
+    width: 46px;
+    height: 26px;
+    flex-shrink: 0;
+}
+
+.cook-mode-switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.cook-mode-slider {
+    position: absolute;
+    cursor: pointer;
+    inset: 0;
+    border-radius: 26px;
+    background-color: #999;
+    transition: 0.2s;
+}
+
+.cook-mode-slider::before {
+    content: "";
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 3px;
+    top: 3px;
+    border-radius: 50%;
+    background-color: white;
+    transition: 0.2s;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+.cook-mode-switch input:checked + .cook-mode-slider {
+    background-color: #4caf50;
+}
+
+.cook-mode-switch input:checked + .cook-mode-slider::before {
+    transform: translateX(20px);
+}

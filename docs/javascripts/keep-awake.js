@@ -6,7 +6,7 @@ async function requestWakeLock() {
 
         wakeLock.addEventListener("release", () => {
             wakeLock = null;
-            updateWakeLockButton(false);
+            updateCookMode(false);
         });
 
         return true;
@@ -16,60 +16,79 @@ async function requestWakeLock() {
     }
 }
 
-async function toggleWakeLock() {
-    if (wakeLock) {
-        await wakeLock.release();
-        wakeLock = null;
-        updateWakeLockButton(false);
-    } else {
+async function toggleCookMode(enabled) {
+    if (enabled) {
         const success = await requestWakeLock();
 
-        if (success) {
-            updateWakeLockButton(true);
-        } else {
+        if (!success) {
+            const checkbox = document.getElementById("cook-mode-checkbox");
+
+            if (checkbox) {
+                checkbox.checked = false;
+            }
+
             alert("Sorry! Your browser does not allow the screen to be kept awake.");
+            return;
         }
-    }
-}
 
-function updateWakeLockButton(active) {
-    const button = document.getElementById("wake-lock-button");
-
-    if (!button) return;
-
-    if (active) {
-        button.textContent = "🔆 Screen Will Stay On ✓";
-        button.classList.add("wake-lock-active");
+        updateCookMode(true);
     } else {
-        button.textContent = "🔆 Keep Screen On";
-        button.classList.remove("wake-lock-active");
+        if (wakeLock) {
+            await wakeLock.release();
+            wakeLock = null;
+        }
+
+        updateCookMode(false);
     }
 }
 
-function createWakeLockButton() {
-    // Don't create duplicate buttons
-    if (document.getElementById("wake-lock-button")) return;
+function updateCookMode(active) {
+    const checkbox = document.getElementById("cook-mode-checkbox");
 
-    const button = document.createElement("button");
+    if (!checkbox) return;
 
-    button.id = "wake-lock-button";
-    button.textContent = "🔆 Keep Screen On";
-    button.type = "button";
+    checkbox.checked = active;
+}
 
-    button.addEventListener("click", toggleWakeLock);
+function createCookMode() {
+    // Don't create duplicates
+    if (document.getElementById("cook-mode")) return;
 
-    // Put the button near the top of the recipe content
+    const cookMode = document.createElement("div");
+
+    cookMode.id = "cook-mode";
+    cookMode.className = "cook-mode";
+
+    cookMode.innerHTML = `
+        <span class="cook-mode-label">Cook Mode</span>
+
+        <label class="cook-mode-switch">
+            <input type="checkbox" id="cook-mode-checkbox">
+            <span class="cook-mode-slider"></span>
+        </label>
+
+        <span class="cook-mode-description">
+            Prevent your screen from going dark
+        </span>
+    `;
+
     const article = document.querySelector("article.md-content__inner");
 
     if (article) {
-        article.insertBefore(button, article.firstChild);
+        article.insertBefore(cookMode, article.firstChild);
     } else {
-        document.body.insertBefore(button, document.body.firstChild);
+        document.body.insertBefore(cookMode, document.body.firstChild);
     }
+
+    const checkbox = document.getElementById("cook-mode-checkbox");
+
+    checkbox.addEventListener("change", () => {
+        toggleCookMode(checkbox.checked);
+    });
 }
 
-document.addEventListener("DOMContentLoaded", createWakeLockButton);
+document.addEventListener("DOMContentLoaded", createCookMode);
 
 document$.subscribe(function () {
-    createWakeLockButton();
+    createCookMode();
 });
