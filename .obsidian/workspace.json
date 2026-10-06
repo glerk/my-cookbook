@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Japanese/miso-katsu.md",
-                "mode": "preview",
+                "file": "docs/Random/index.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "miso-katsu"
+              "title": "index"
             }
           }
         ]
@@ -188,6 +188,7 @@
   },
   "active": "0cd855d6b2496b49",
   "lastOpenFiles": [
+    "docs/Japanese/miso-katsu.md",
     "docs/stylesheets/cookbook.css",
     "docs/stylesheets",
     "docs/javascripts/keep-awake.js",
@@ -195,7 +196,6 @@
     "docs/assets/miso-katsu.jpg",
     "docs/assets",
     "docs/index.md",
-    "docs/Japanese/miso-katsu.md",
     "docs/Japanese/gyudon.md",
     "assets/miso-katsu.jpg",
     "assets/Image (2).jpg",
@@ -222,7 +222,6 @@
     "docs/recipes/Japanese/Miso-Katsu.md",
     "docs/recipes/Japanese/Gyudon.md",
     "docs/recipes/Random",
-    "docs/recipes/Japanese",
     "docs/Recipes/Random/One pot Taco-Rice.md",
     "docs/Recipes/Random/Chicken Bake, Meal prep idea.md",
     "docs/Recipes/Japanese/Miso-Katsu.md",
