@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/Japanese/miso-katsu.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -186,7 +186,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5a96ab22f4cafac",
+  "active": "0cd855d6b2496b49",
   "lastOpenFiles": [
     "docs/javascripts/keep-awake.js",
     "docs/javascripts",

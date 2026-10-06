@@ -63,6 +63,8 @@ function createWakeLockButton() {
 
     if (article) {
         article.insertBefore(button, article.firstChild);
+    } else {
+        document.body.insertBefore(button, document.body.firstChild);
     }
 }
 
