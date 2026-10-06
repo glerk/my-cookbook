@@ -3,10 +3,10 @@ let wakeLock = null;
 async function requestWakeLock() {
     try {
         wakeLock = await navigator.wakeLock.request("screen");
-        console.log("Screen wake lock activated.");
 
         wakeLock.addEventListener("release", () => {
-            console.log("Screen wake lock released.");
+            wakeLock = null;
+            updateWakeLockButton(false);
         });
 
         return true;
@@ -26,6 +26,8 @@ async function toggleWakeLock() {
 
         if (success) {
             updateWakeLockButton(true);
+        } else {
+            alert("Sorry! Your browser does not allow the screen to be kept awake.");
         }
     }
 }
@@ -43,3 +45,25 @@ function updateWakeLockButton(active) {
         button.classList.remove("wake-lock-active");
     }
 }
+
+function createWakeLockButton() {
+    // Don't create duplicate buttons
+    if (document.getElementById("wake-lock-button")) return;
+
+    const button = document.createElement("button");
+
+    button.id = "wake-lock-button";
+    button.textContent = "🔆 Keep Screen On";
+    button.type = "button";
+
+    button.addEventListener("click", toggleWakeLock);
+
+    // Put the button near the top of the recipe content
+    const article = document.querySelector("article.md-content__inner");
+
+    if (article) {
+        article.insertBefore(button, article.firstChild);
+    }
+}
+
+document.addEventListener("DOMContentLoaded", createWakeLockButton);
