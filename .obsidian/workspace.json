@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Random/pesto-boursin-chicken-pasta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "pesto-boursin-chicken-pasta"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "7f56e01bf76c3b22",
   "lastOpenFiles": [
-    "docs/Random/index.md",
     "docs/index.md",
+    "docs/Random/pesto-boursin-chicken-pasta.md",
+    "docs/Random/index.md",
     "docs/Random/lemon-boursin-salmon-pasta.md",
     "conflict-files-obsidian-git.md",
     "docs/Japanese/miso-katsu.md",
@@ -225,7 +226,6 @@
     "docs/recipes/Japanese/Gyudon.md",
     "docs/recipes/Random",
     "docs/Recipes/Random/One pot Taco-Rice.md",
-    "docs/Recipes/Random/Chicken Bake, Meal prep idea.md",
-    "docs/Recipes/Japanese/Miso-Katsu.md"
+    "docs/Recipes/Random/Chicken Bake, Meal prep idea.md"
   ]
 }
