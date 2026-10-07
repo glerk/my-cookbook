@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Random/index.md",
+                "file": "docs/Japanese/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -188,9 +188,10 @@
   },
   "active": "0cd855d6b2496b49",
   "lastOpenFiles": [
+    "docs/Japanese/gyudon.md",
+    "docs/Random/index.md",
     "docs/Random/chicken-enchilada-rice-bake.md",
     "README.md",
-    "docs/Random/index.md",
     "docs/Japanese/miso-katsu.md",
     "docs/stylesheets/cookbook.css",
     "docs/stylesheets",
@@ -199,7 +200,6 @@
     "docs/assets/miso-katsu.jpg",
     "docs/assets",
     "docs/index.md",
-    "docs/Japanese/gyudon.md",
     "assets/miso-katsu.jpg",
     "assets/Image (2).jpg",
     "assets",
