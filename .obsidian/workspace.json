@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/Random/index.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -188,6 +188,9 @@
   },
   "active": "0cd855d6b2496b49",
   "lastOpenFiles": [
+    "docs/Random/chicken-enchilada-rice-bake.md",
+    "README.md",
+    "docs/Random/index.md",
     "docs/Japanese/miso-katsu.md",
     "docs/stylesheets/cookbook.css",
     "docs/stylesheets",
@@ -203,10 +206,8 @@
     "New folder",
     "docs/Random/one-pot-taco-rice.md",
     "().md",
-    "docs/Random/index.md",
     "docs/Japanese/index.md",
     "docs/Random/mexican-street-corn-chicken-orzo-bake.md",
-    "docs/Random/chicken-enchilada-rice-bake.md",
     "docs/Japanese/Miso-Katsu.md",
     "Template.md",
     "docs/Japanese/Gyudon.md",
