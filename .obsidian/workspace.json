@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Random/pesto-boursin-chicken-pasta.md",
+                "file": "docs/Random/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pesto-boursin-chicken-pasta"
+              "title": "index"
             }
           }
         ]
@@ -188,8 +188,8 @@
   },
   "active": "7f56e01bf76c3b22",
   "lastOpenFiles": [
-    "docs/index.md",
     "docs/Random/pesto-boursin-chicken-pasta.md",
+    "docs/index.md",
     "docs/Random/index.md",
     "docs/Random/lemon-boursin-salmon-pasta.md",
     "conflict-files-obsidian-git.md",
