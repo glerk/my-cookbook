@@ -11,6 +11,9 @@ Easy meals, experiments, meal-prep ideas, and recipes that we liked enough to wr
 - [Chicken Enchilada Rice Bake](chicken-enchilada-rice-bake.md)
   A hearty chicken and rice bake with enchilada flavors.
 
+- [Lemon Boursin Salmon Pasta](lemon-boursin-salmon-pasta.md)
+  A 
+
 - [Mexican Street Corn Chicken Orzo Bake](mexican-street-corn-chicken-orzo-bake.md)
   A creamy chicken and orzo bake inspired by Mexican street corn.
 

@@ -12,7 +12,6 @@
 **Source:** [Just One Cookbook -- Miso  
 Katsu](https://www.justonecookbook.com/nagoya-miso-katsu/)  
 
-
 ---
 
 ## Ingredients
