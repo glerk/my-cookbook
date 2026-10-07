@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Random/index.md",
-                "mode": "preview",
+                "file": "docs/index.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -188,8 +188,9 @@
   },
   "active": "7f56e01bf76c3b22",
   "lastOpenFiles": [
-    "docs/Random/lemon-boursin-salmon-pasta.md",
     "docs/Random/index.md",
+    "docs/index.md",
+    "docs/Random/lemon-boursin-salmon-pasta.md",
     "conflict-files-obsidian-git.md",
     "docs/Japanese/miso-katsu.md",
     "docs/stylesheets/cookbook.css",
@@ -198,7 +199,6 @@
     "docs/javascripts",
     "docs/assets/miso-katsu.jpg",
     "docs/assets",
-    "docs/index.md",
     "docs/Japanese/gyudon.md",
     "assets/miso-katsu.jpg",
     "assets/Image (2).jpg",

@@ -18,7 +18,7 @@ Recipes inspired by Japanese cooking, including some favorites from our time in 
 
 Everything else! Easy meals, experiments, meal-prep ideas, and recipes that don't quite fit anywhere else.
 
-** [Browse Random Recipes →](Random/index.md)
+ [Browse Random Recipes →](Random/index.md)
 
 ---
 
