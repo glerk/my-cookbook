@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "0106d135dd374676",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,7 +186,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0106d135dd374676",
+  "active": "0cd855d6b2496b49",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "docs/index.md",
