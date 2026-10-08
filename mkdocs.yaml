@@ -2,3 +2,9 @@ site_name: Jason & Pearl's Cookbook!
 
 theme:
   name: material
+
+extra_javascript:
+  - javascripts/keep-awake.js
+
+extra_css:
+  - stylesheets/cookbook.css

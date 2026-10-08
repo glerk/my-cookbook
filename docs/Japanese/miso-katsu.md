@@ -1,4 +1,5 @@
 # Nagoya Miso Katsu (味噌カツ)
+![Miso Katsu | 500](../assets/miso-katsu.jpg)
 
 **Serves:** 4  
 **Prep:** ~45 minutes  
@@ -10,8 +11,6 @@
 
 **Source:** [Just One Cookbook -- Miso  
 Katsu](https://www.justonecookbook.com/nagoya-miso-katsu/)  
-**Note:** This Obsidian version is adapted from the source recipe and  
-Includes a powdered-dashi adjustment.
 
 ---
 
