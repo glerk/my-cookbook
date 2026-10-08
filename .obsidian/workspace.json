@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "af6cd2ea6d100ade",
+        "id": "df8b805d892654c0",
         "type": "tabs",
         "children": [
           {
-            "id": "7f56e01bf76c3b22",
+            "id": "0cd855d6b2496b49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Random/index.md",
+                "file": "docs/index.md",
                 "mode": "preview",
                 "source": false
               },
@@ -196,17 +196,17 @@
     "docs/javascripts",
     "docs/assets/miso-katsu.jpg",
     "docs/assets",
-    "docs/Japanese/gyudon.md",
-    "assets/miso-katsu.jpg",
-    "assets/Image (2).jpg",
-    "assets",
-    "New folder",
+    "docs/Random/pesto-boursin-chicken-pasta.md",
+    "docs/Random/lemon-boursin-salmon-pasta.md",
     "docs/Random/one-pot-taco-rice.md",
     "().md",
+    "docs/Random/index.md",
     "docs/Japanese/index.md",
     "docs/Random/mexican-street-corn-chicken-orzo-bake.md",
+    "docs/Japanese/gyudon.md",
     "docs/Random/chicken-enchilada-rice-bake.md",
     "docs/Japanese/Miso-Katsu.md",
+    "docs/Japanese/miso-katsu.md",
     "Template.md",
     "docs/Japanese/Gyudon.md",
     "docs/Template.md",
@@ -221,6 +221,8 @@
     "docs/recipes/Japanese/Miso-Katsu.md",
     "docs/recipes/Japanese/Gyudon.md",
     "docs/recipes/Random",
+    "docs/recipes/Japanese",
+    "docs/recipes",
     "docs/Recipes/Random/One pot Taco-Rice.md",
     "docs/Recipes/Random/Chicken Bake, Meal prep idea.md"
   ]
