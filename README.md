@@ -7,7 +7,7 @@ Instructions for making new recipe:
 
 ## 1. Decide where the recipe belongs
 
-* [x] Pick an existing category/folder in `docs/`
+* [ ] Pick an existing category/folder in `docs/`
 * [ ] If no category fits, create a new folder
 * [ ] If creating a new folder, create an `index.md` inside it
 * [ ] Add the new category to the main `docs/index.md` if appropriate
