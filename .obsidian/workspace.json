@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/Japanese/miso-katsu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "miso-katsu"
             }
           }
         ]
@@ -188,6 +188,7 @@
   },
   "active": "7f56e01bf76c3b22",
   "lastOpenFiles": [
+    "README.md",
     "docs/Random/lemon-boursin-salmon-pasta.md",
     "docs/javascripts/recipe-scaler.js",
     "docs/Random/mexican-street-corn-chicken-orzo-bake.md",
