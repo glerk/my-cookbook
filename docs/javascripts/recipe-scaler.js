@@ -182,6 +182,9 @@ function createServingCalculators() {
         calculator.appendChild(note);
 
         function updateIngredients() {
+            // Allow the user to temporarily clear the field while typing.
+            if (input.value.trim() === "") return;
+
             let servings = Number(input.value);
 
             if (!Number.isFinite(servings)) return;
@@ -193,6 +196,31 @@ function createServingCalculators() {
                 formatIngredientAmount(element, servings, originalServings);
             });
         }
+
+        function commitServings() {
+            // Restore a valid value if the user leaves the field empty.
+            if (input.value.trim() === "") {
+                input.value = originalServings;
+            }
+
+            updateIngredients();
+        }
+
+        decreaseButton.addEventListener("click", () => {
+            const current = Number(input.value) || originalServings;
+            input.value = Math.max(1, current - 1);
+            updateIngredients();
+        });
+
+        increaseButton.addEventListener("click", () => {
+            const current = Number(input.value) || originalServings;
+            input.value = Math.min(24, current + 1);
+            updateIngredients();
+        });
+
+        input.addEventListener("input", updateIngredients);
+        input.addEventListener("change", updateIngredients);
+        input.addEventListener("blur", commitServings);
 
         input.addEventListener("change", updateIngredients);
         input.addEventListener("input", updateIngredients);

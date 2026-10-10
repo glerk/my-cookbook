@@ -101,3 +101,41 @@
     color: var(--md-default-fg-color--light);
     font-size: 0.85rem;
 }
+
+/* Serving calculator controls */
+.servings-calculator-label {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.servings-calculator-input {
+    width: 64px;
+    min-height: 42px;
+    padding: 6px;
+    font-size: 16px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.servings-adjust-button {
+    min-width: 42px;
+    min-height: 42px;
+    padding: 6px 12px;
+    font-size: 20px;
+    line-height: 1;
+    cursor: pointer;
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 6px;
+    background: var(--md-code-bg-color);
+    color: var(--md-default-fg-color);
+}
+
+.servings-adjust-button:hover {
+    background: var(--md-default-fg-color--lightest);
+}
+
+.servings-adjust-button:active {
+    transform: scale(0.96);
+}
