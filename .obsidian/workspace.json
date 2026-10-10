@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Japanese/miso-katsu.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -203,11 +203,16 @@
   },
   "active": "4ce8d2e0fcc09fec",
   "lastOpenFiles": [
+    "Template.md",
+    "docs/Japanese/miso-katsu.md",
     "docs/Random/lemon-boursin-salmon-pasta.md",
     "docs/Random/pesto-boursin-chicken-pasta.md",
-    "docs/Japanese/miso-katsu.md",
     "README.md",
     "docs/javascripts/recipe-scaler.js",
+    "docs/Random/mexican-street-corn-chicken-orzo-bake.md",
+    "docs/Random/chicken-enchilada-rice-bake.md",
+    "docs/Random/index.md",
+    "docs/recipe-scaler.js",
     "docs/assets/lemon-boursin-salmon-pasta.JPG",
     "conflict-files-obsidian-git.md",
     "docs/index.md",
@@ -225,10 +230,7 @@
     "docs/Random/one-pot-taco-rice.md",
     "().md",
     "docs/Japanese/index.md",
-    "docs/Random/mexican-street-corn-chicken-orzo-bake.md",
-    "docs/Random/chicken-enchilada-rice-bake.md",
     "docs/Japanese/Miso-Katsu.md",
-    "Template.md",
     "docs/Japanese/Gyudon.md",
     "docs/Template.md",
     "docs/Random/Mexican Street Corn Chicken Orzo Bake.md",
@@ -236,12 +238,10 @@
     "mk-docks.yaml.md",
     "docs/Random/One pot Taco-Rice.md",
     "docs/Random",
-    "docs/Japanese",
     "docs/recipes/Random/One pot Taco-Rice.md",
     "docs/recipes/Random/Chicken Bake, Meal prep idea.md",
     "docs/recipes/Japanese/Miso-Katsu.md",
     "docs/recipes/Japanese/Gyudon.md",
-    "docs/recipes/Random",
     "docs/Recipes/Random/One pot Taco-Rice.md"
   ]
 }

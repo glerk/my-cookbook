@@ -2,7 +2,8 @@
 
 Welcome to our little collection of recipes!
 
-This is where we're keeping the things we actually cook, recipes we're learning, and meals that turned out good enough to make again. 😄
+This is where we're keeping the things we actually cook, recipes we're learning, and meals that turned out good enough to make again.
+Each meal has it's own story, which may or may not be true.... We'll let you decide. 😄
 
 ---
 
