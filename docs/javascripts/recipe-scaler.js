@@ -148,16 +148,31 @@ function createServingCalculators() {
         label.className = "servings-calculator-label";
         label.textContent = "Servings";
 
+        const decreaseButton = document.createElement("button");
+        decreaseButton.type = "button";
+        decreaseButton.textContent = "−";
+        decreaseButton.className = "servings-adjust-button";
+        decreaseButton.setAttribute("aria-label", "Decrease servings");
+
         const input = document.createElement("input");
         input.type = "number";
         input.min = "1";
         input.max = "24";
         input.step = "1";
         input.value = originalServings;
+        input.inputMode = "numeric";
         input.className = "servings-calculator-input";
         input.setAttribute("aria-label", "Number of servings");
 
+        const increaseButton = document.createElement("button");
+        increaseButton.type = "button";
+        increaseButton.textContent = "+";
+        increaseButton.className = "servings-adjust-button";
+        increaseButton.setAttribute("aria-label", "Increase servings");
+
+        label.appendChild(decreaseButton);
         label.appendChild(input);
+        label.appendChild(increaseButton);
 
         const note = document.createElement("span");
         note.className = "servings-calculator-note";
