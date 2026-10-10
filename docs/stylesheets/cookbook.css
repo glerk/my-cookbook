@@ -65,3 +65,39 @@
 .cook-mode-switch input:checked + .cook-mode-slider::before {
     transform: translateX(20px);
 }
+    
+/* Recipe serving calculator */
+
+.servings-calculator {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin: 1.25em 0;
+    padding: 14px 16px;
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 10px;
+    background: var(--md-default-fg-color--lightest);
+}
+
+.servings-calculator-label {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: 600;
+}
+
+.servings-calculator-input {
+    width: 90px;
+    padding: 7px 8px;
+    border: 1px solid var(--md-default-fg-color--light);
+    border-radius: 6px;
+    background: var(--md-default-bg-color);
+    color: var(--md-default-fg-color);
+    font: inherit;
+}
+
+.servings-calculator-note {
+    color: var(--md-default-fg-color--light);
+    font-size: 0.85rem;
+}

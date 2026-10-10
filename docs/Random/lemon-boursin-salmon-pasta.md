@@ -1,7 +1,5 @@
 # Lemon Boursin Salmon Pasta Meal Prep
-![Miso Katsu | 500](../assets/lemon-boursin-salmon-pasta.JPG)
-
-
+![lemon-chicken-boursin-salmon-pasta.jpg| 500](../assets/lemon-boursin-salmon-pasta.JPG)
 
 **Serves:** 6
 **Prep Time:** ~10 minutes
@@ -11,33 +9,38 @@
 
 > Oven-baked salmon, cherry tomatoes, garlic, and Boursin Garlic & Fine Herbs mixed with rotini pasta and spinach for a creamy, easy meal-prep dish.
 
+<div class="servings-calculator" data-original-servings="6"></div>
+
+
 ---
+
 
 ## Ingredients
 
 ### Main Ingredients
 
-* 24 oz sockeye salmon
-* 8 oz dry rotini pasta
-* 1 (5.2 oz) Boursin Garlic & Fine Herbs
-* 2 pints cherry tomatoes
-* 1–2 cups baby spinach
-* 1 medium shallot, thinly sliced
-* 2 tbsp garlic, minced
-* 1 tbsp olive oil
-* 1 lemon, juiced
+- <span class="ingredient-amount" data-amount="24" data-unit="oz">24 oz</span> sockeye salmon
+- <span class="ingredient-amount" data-amount="8" data-unit="oz">8 oz</span> dry rotini pasta
+- <span class="ingredient-amount" data-amount="5.2" data-unit="oz">5.2 oz</span> Boursin Garlic & Fine Herbs
+- <span class="ingredient-amount" data-amount="2" data-unit-one="pint" data-unit-many="pints">2 pints</span> cherry tomatoes
+- <span class="ingredient-amount" data-min="1" data-max="2" data-unit-one="cup" data-unit-many="cups">1–2 cups</span> baby spinach
+- <span class="ingredient-amount" data-amount="1" data-unit-one="shallot" data-unit-many="shallots">1</span> medium shallot, thinly sliced
+- <span class="ingredient-amount" data-amount="2" data-unit="tbsp">2 tbsp</span> garlic, minced
+- <span class="ingredient-amount" data-amount="1" data-unit="tbsp">1 tbsp</span> olive oil
+- <span class="ingredient-amount" data-amount="1" data-unit-one="lemon" data-unit-many="lemons">1</span> lemon, juiced
 
 ### Seasoning Blend
 
-* 1½ tsp dried oregano
-* 1 tsp smoked paprika
-* ½ tsp onion powder
-* ½ tsp red pepper flakes, optional
-* ½ tsp salt, or to taste
+- <span class="ingredient-amount" data-amount="1.5" data-unit="tsp">1½ tsp</span> dried oregano
+- <span class="ingredient-amount" data-amount="1" data-unit="tsp">1 tsp</span> smoked paprika
+- <span class="ingredient-amount" data-amount="0.5" data-unit="tsp">½ tsp</span> onion powder
+- <span class="ingredient-amount" data-amount="0.5" data-unit="tsp">½ tsp</span> red pepper flakes, optional
+- <span class="ingredient-amount" data-amount="0.5" data-unit="tsp">½ tsp</span> salt, or to taste
 
 ### Toppings / Garnishes
 
-* Fresh parsley, optional
+- Fresh parsley, optional
+
 
 ---
 

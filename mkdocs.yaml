@@ -5,6 +5,7 @@ theme:
 
 extra_javascript:
   - javascripts/keep-awake.js
+  - javascripts/recipe-scaler.js
 
 extra_css:
   - stylesheets/cookbook.css
