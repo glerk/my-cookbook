@@ -9,7 +9,7 @@ Each meal has it's own story, which may or may not be true.... We'll let you dec
 
 ## 🍜 Japanese
 
-Recipes inspired by Japanese cooking, including some favorites from our time in Japan.
+Recipes inspired by Japanese cooking, including some favorites from when we lived in Japan!
 
 [Browse Japanese Recipes →](Japanese/index.md)
 
@@ -26,6 +26,8 @@ Everything else! Easy meals, experiments, meal-prep ideas, and recipes that don'
 ## 👨‍🍳 About This Cookbook
 
 This cookbook is a work in progress.
+
+This is for learning how to cook, as well as learning mkdocs + github
 
 Recipes will change as we learn how to make them better. Measurements might get adjusted, instructions might get rewritten, and occasionally something will probably go horribly wrong.
 
