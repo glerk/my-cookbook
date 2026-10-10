@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Random/lemon-boursin-salmon-pasta.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lemon-boursin-salmon-pasta"
+              "title": "README"
             }
           }
         ]
@@ -188,9 +188,9 @@
   },
   "active": "7f56e01bf76c3b22",
   "lastOpenFiles": [
+    "docs/Random/lemon-boursin-salmon-pasta.md",
     "docs/javascripts/recipe-scaler.js",
     "docs/Random/mexican-street-corn-chicken-orzo-bake.md",
-    "docs/Random/lemon-boursin-salmon-pasta.md",
     "docs/Random/chicken-enchilada-rice-bake.md",
     "docs/Random/index.md",
     "docs/recipe-scaler.js",
@@ -222,7 +222,6 @@
     "mk-docks.yaml.md",
     "docs/Random/One pot Taco-Rice.md",
     "docs/Random",
-    "docs/Japanese",
     "docs/recipes/Random/One pot Taco-Rice.md",
     "docs/recipes/Random/Chicken Bake, Meal prep idea.md",
     "docs/recipes/Japanese/Miso-Katsu.md",

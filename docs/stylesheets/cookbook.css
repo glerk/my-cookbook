@@ -139,3 +139,15 @@
 .servings-adjust-button:active {
     transform: scale(0.96);
 }
+
+/* Hide the browser's built-in number input arrows */
+.servings-calculator-input::-webkit-inner-spin-button,
+.servings-calculator-input::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.servings-calculator-input {
+    -moz-appearance: textfield;
+    appearance: textfield;
+}
