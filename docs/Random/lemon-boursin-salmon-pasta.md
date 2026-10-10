@@ -1,4 +1,7 @@
 # Lemon Boursin Salmon Pasta Meal Prep
+![Miso Katsu | 500](../assets/lemon-boursin-salmon-pasta.JPG)
+
+
 
 **Serves:** 6
 **Prep Time:** ~10 minutes
