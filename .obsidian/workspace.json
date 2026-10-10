@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "7a7f15e347f3896a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f56e01bf76c3b22",
+  "active": "7a7f15e347f3896a",
   "lastOpenFiles": [
     "docs/assets/lemon-boursin-salmon-pasta.JPG",
     "conflict-files-obsidian-git.md",
