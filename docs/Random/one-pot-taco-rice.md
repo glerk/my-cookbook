@@ -1,12 +1,12 @@
 # Taco Rice
 
-**Serves:** 3–4  
+**Serves:** 4  
 **Prep:** ~5 minutes  
 **Cook:** ~15 minutes
 
 > Chicken, taco seasoning, rice, corn, and tomato mix cooked together in one pan.
 
-<div class="servings-calculator" data-original-servings="6"></div>
+<div class="servings-calculator" data-original-servings="4"></div>
 
 
 ---
@@ -15,17 +15,15 @@
 ## Ingredients
 
 ### Main
-- <span class="ingredient-amount" data-amount="3" data-unit="Chicken breasts" data-unit-one="pork chop" data-unit-many="pork chops">4 pork chops</span> boneless pork loin, about ½-inch thick (approximately 1 lb / 454 g total)
-
-- 3 chicken breasts, cut into cubes
+- <span class="ingredient-amount" data-amount="3" data-unit="Chicken breasts" data-unit-one="Chicken breasts" data-unit-many="pork chops">3 Chicken breasts</span> cut up into bite size chunks
 - Oil, for cooking
-- 1.5 bags taco seasoning
-- 1 can corn
-- 1 can Rotel Mexican tomato mix
-- 1 can tomato sauce
-- 2–3 garlic cloves, minced
-- 1.5 cups uncooked rice
-- 1 cup chicken broth
+- <span class="ingredient-amount" data-amount="1.5" data-unit="bag">1½ bags</span> taco seasoning
+- <span class="ingredient-amount" data-amount="1" data-unit="can">1 can</span> corn
+- <span class="ingredient-amount" data-amount="1" data-unit="can">1 can</span> Rotel Mexican tomato mix
+- <span class="ingredient-amount" data-amount="1" data-unit="can">1 can</span> tomato sauce
+- <span class="ingredient-amount" data-amount="2" data-unit="tbsp">2 tbsp</span> garlic, minced
+- <span class="ingredient-amount" data-amount="1.5" data-unit="cup">1½ cups</span> uncooked rice
+- <span class="ingredient-amount" data-min="1" data-max="2" data-unit-one="cup" data-unit-many="cups">1–2 cups</span> chicken broth
 
 ## Instructions
 
