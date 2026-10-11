@@ -6,9 +6,17 @@
 
 > Chicken, taco seasoning, rice, corn, and tomato mix cooked together in one pan.
 
+<div class="servings-calculator" data-original-servings="6"></div>
+
+
+---
+
+
 ## Ingredients
 
 ### Main
+- <span class="ingredient-amount" data-amount="3" data-unit="Chicken breasts" data-unit-one="pork chop" data-unit-many="pork chops">4 pork chops</span> boneless pork loin, about ½-inch thick (approximately 1 lb / 454 g total)
+
 - 3 chicken breasts, cut into cubes
 - Oil, for cooking
 - 1.5 bags taco seasoning
