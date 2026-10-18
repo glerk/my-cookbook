@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Random/baked-feta-and-tomato-pasta.md",
+                "file": "docs/Random/index.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "baked-feta-and-tomato-pasta"
+              "title": "index"
             }
           }
         ],
@@ -203,8 +203,8 @@
   },
   "active": "4ce8d2e0fcc09fec",
   "lastOpenFiles": [
-    "docs/index.md",
     "docs/Random/baked-feta-and-tomato-pasta.md",
+    "docs/index.md",
     "Template.md",
     "docs/Japanese/miso-katsu.md",
     "docs/Random/lemon-boursin-salmon-pasta.md",
