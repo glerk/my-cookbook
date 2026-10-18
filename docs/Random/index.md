@@ -16,7 +16,7 @@ Easy meals, experiments, meal-prep ideas, and recipes that we liked enough to wr
   A delicious salmon pasta oven bake meal prep. Back in Alaska, where I was born and raised, Mikiruk would take me fishing on the Koyukuk river in Yukon–Koyukuk. We'd make this dish afterwards! Just be careful of breaking the most important rule in the office: re-heating fish in the community microwave is a SIN. 
 
 - [Baked feta and tomato pasta](baked-feta-and-tomato-pasta.md)
-This one is awesome. 
+This one is a work in progress.....
 
 - [Mexican Street Corn Chicken Orzo Bake](mexican-street-corn-chicken-orzo-bake.md)
   A creamy chicken and orzo bake inspired by Mexican street corn. 
