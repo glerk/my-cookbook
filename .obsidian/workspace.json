@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Random/index.md",
-                "mode": "preview",
+                "file": "docs/Random/mexican-street-corn-chicken-orzo-bake.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "mexican-street-corn-chicken-orzo-bake"
             }
           }
         ],
@@ -203,6 +203,7 @@
   },
   "active": "4ce8d2e0fcc09fec",
   "lastOpenFiles": [
+    "docs/Random/index.md",
     "docs/Random/baked-feta-and-tomato-pasta.md",
     "docs/index.md",
     "Template.md",
@@ -213,7 +214,6 @@
     "docs/javascripts/recipe-scaler.js",
     "docs/Random/mexican-street-corn-chicken-orzo-bake.md",
     "docs/Random/chicken-enchilada-rice-bake.md",
-    "docs/Random/index.md",
     "docs/recipe-scaler.js",
     "docs/assets/lemon-boursin-salmon-pasta.JPG",
     "conflict-files-obsidian-git.md",
