@@ -15,7 +15,7 @@
 ## Ingredients
 
 ### Main
-- <span class="ingredient-amount" data-amount="3" data-unit="Chicken breasts" data-unit-one="Chicken breasts" data-unit-many="pork chops">3 Chicken breasts</span> cut up into bite size chunks
+- <span class="ingredient-amount" data-amount="3" data-unit="Chicken breasts" data-unit-one="Chicken breasts" data-unit-many="chicken breasts">3 Chicken breasts</span> cut up into bite size chunks
 - Oil, for cooking
 - <span class="ingredient-amount" data-amount="1.5" data-unit="bag">1½ bags</span> taco seasoning
 - <span class="ingredient-amount" data-amount="1" data-unit="can">1 can</span> corn
