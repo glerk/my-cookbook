@@ -22,6 +22,13 @@ Everything else! Easy meals, experiments, meal-prep ideas, and recipes that don'
 [Browse Random Recipes →](Random/index.md)
 
 ---
+## 🍪 Sweets
+
+You know when you wake up at 11 pm, or 2 am and want some sweet treats? Here's the place you go to make those treats. 
+
+[Browse Random Recipes →](Sweets/index.md)
+
+---
 
 ## 👨‍🍳 About This Cookbook
 
