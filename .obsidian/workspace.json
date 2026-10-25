@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "af6cd2ea6d100ade",
+        "id": "0db967ca7a89b18d",
         "type": "tabs",
         "children": [
           {
-            "id": "4ce8d2e0fcc09fec",
+            "id": "5c86636d56a6ce1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Random/index.md",
                 "mode": "preview",
                 "source": false
               },
@@ -186,21 +186,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ce8d2e0fcc09fec",
+  "active": "5c86636d56a6ce1c",
   "lastOpenFiles": [
+    "docs/Random/lemon-boursin-shrimp-pasta.md",
+    "docs/Random/index.md",
+    "docs/Random/lemon-boursin-salmon-pasta.md",
+    "docs/index.md",
     "README.md",
     "docs/Sweets/index.md",
     "docs/Sweets/choc-chip-cookies.md",
     "docs/Japanese/index.md",
-    "docs/index.md",
     "docs/Sweets 1/index.md",
-    "docs/Random/lemon-boursin-salmon-pasta.md",
     "docs/Sweets 1",
     "docs/Japanese/miso-katsu.md",
     "docs/Sweets",
     "docs/Japanese/gyudon.md",
     "docs/Random/mexican-street-corn-chicken-orzo-bake.md",
-    "docs/Random/index.md",
     "docs/Random/baked-feta-and-tomato-pasta.md",
     "Template.md",
     "docs/Random/pesto-boursin-chicken-pasta.md",
@@ -226,7 +227,6 @@
     "docs/Random/Mexican Street Corn Chicken Orzo Bake.md",
     "docs/Random/Chicken Bake, Meal prep idea.md",
     "mk-docks.yaml.md",
-    "docs/Random/One pot Taco-Rice.md",
-    "docs/recipes/Random/One pot Taco-Rice.md"
+    "docs/Random/One pot Taco-Rice.md"
   ]
 }
