@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Sweets/choc-chip-cookies.md",
+                "file": "docs/Random/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "choc-chip-cookies"
+              "title": "index"
             }
           }
         ]
@@ -188,8 +188,8 @@
   },
   "active": "5c86636d56a6ce1c",
   "lastOpenFiles": [
-    "docs/Japanese/miso-katsu.md",
     "docs/Sweets/choc-chip-cookies.md",
+    "docs/Japanese/miso-katsu.md",
     "docs/assets/Pasted image 20261025174830.png",
     "docs/Japanese/gyudon.md",
     "docs/assets/choco-cookies.png",
