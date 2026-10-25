@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Sweets/index.md",
-                "mode": "source",
+                "file": "docs/index.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -188,8 +188,9 @@
   },
   "active": "4ce8d2e0fcc09fec",
   "lastOpenFiles": [
-    "docs/Sweets/choc-chip-cookies.md",
+    "README.md",
     "docs/Sweets/index.md",
+    "docs/Sweets/choc-chip-cookies.md",
     "docs/Japanese/index.md",
     "docs/index.md",
     "docs/Sweets 1/index.md",
@@ -203,7 +204,6 @@
     "docs/Random/baked-feta-and-tomato-pasta.md",
     "Template.md",
     "docs/Random/pesto-boursin-chicken-pasta.md",
-    "README.md",
     "docs/javascripts/recipe-scaler.js",
     "docs/Random/chicken-enchilada-rice-bake.md",
     "docs/recipe-scaler.js",
