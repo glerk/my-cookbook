@@ -1,5 +1,7 @@
 # Chewy Chocolate Chip Cookies
 
+![Miso Katsu | 600](../assets/choco-cookies.png)
+
 **Makes:** Varies by cookie size (50–60 g each)  
 **Prep:** 15 minutes  
 **Chill:** At least 2 hours  

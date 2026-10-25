@@ -1,5 +1,6 @@
 {
   "readableLineLength": false,
   "useMarkdownLinks": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "docs/assets"
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Random/index.md",
-                "mode": "preview",
+                "file": "docs/Sweets/choc-chip-cookies.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "choc-chip-cookies"
             }
           }
         ]
@@ -188,19 +188,22 @@
   },
   "active": "5c86636d56a6ce1c",
   "lastOpenFiles": [
-    "docs/Random/lemon-boursin-shrimp-pasta.md",
+    "docs/Japanese/miso-katsu.md",
+    "docs/Sweets/choc-chip-cookies.md",
+    "docs/assets/Pasted image 20261025174830.png",
+    "docs/Japanese/gyudon.md",
+    "docs/assets/choco-cookies.png",
+    "docs/assets/lemon-boursin-salmon-pasta.JPG",
     "docs/Random/index.md",
+    "docs/Random/lemon-boursin-shrimp-pasta.md",
     "docs/Random/lemon-boursin-salmon-pasta.md",
     "docs/index.md",
     "README.md",
     "docs/Sweets/index.md",
-    "docs/Sweets/choc-chip-cookies.md",
     "docs/Japanese/index.md",
     "docs/Sweets 1/index.md",
     "docs/Sweets 1",
-    "docs/Japanese/miso-katsu.md",
     "docs/Sweets",
-    "docs/Japanese/gyudon.md",
     "docs/Random/mexican-street-corn-chicken-orzo-bake.md",
     "docs/Random/baked-feta-and-tomato-pasta.md",
     "Template.md",
@@ -208,7 +211,6 @@
     "docs/javascripts/recipe-scaler.js",
     "docs/Random/chicken-enchilada-rice-bake.md",
     "docs/recipe-scaler.js",
-    "docs/assets/lemon-boursin-salmon-pasta.JPG",
     "conflict-files-obsidian-git.md",
     "docs/stylesheets/cookbook.css",
     "docs/stylesheets",
@@ -226,7 +228,6 @@
     "docs/Template.md",
     "docs/Random/Mexican Street Corn Chicken Orzo Bake.md",
     "docs/Random/Chicken Bake, Meal prep idea.md",
-    "mk-docks.yaml.md",
-    "docs/Random/One pot Taco-Rice.md"
+    "mk-docks.yaml.md"
   ]
 }
