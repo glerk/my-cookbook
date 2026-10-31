@@ -12,5 +12,5 @@ Here's a section for our favorite sweets.
 
 ---
 
-More recipes coming soon! 🇯🇵
+More recipes coming soon! 
 

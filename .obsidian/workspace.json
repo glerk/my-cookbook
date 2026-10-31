@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "0db967ca7a89b18d",
+        "id": "af6cd2ea6d100ade",
         "type": "tabs",
         "children": [
           {
-            "id": "5c86636d56a6ce1c",
+            "id": "7f56e01bf76c3b22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Random/index.md",
+                "file": "docs/Random/lemon-boursin-salmon-pasta.md",
                 "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lemon-boursin-salmon-pasta"
+            }
+          },
+          {
+            "id": "4ce8d2e0fcc09fec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Sweets/index.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,31 +201,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c86636d56a6ce1c",
+  "active": "4ce8d2e0fcc09fec",
   "lastOpenFiles": [
     "docs/Sweets/choc-chip-cookies.md",
-    "docs/Japanese/miso-katsu.md",
-    "docs/assets/Pasted image 20261025174830.png",
-    "docs/Japanese/gyudon.md",
-    "docs/assets/choco-cookies.png",
-    "docs/assets/lemon-boursin-salmon-pasta.JPG",
-    "docs/Random/index.md",
+    "docs/Random/baked-feta-and-tomato-pasta.md",
+    "docs/Random/pesto-boursin-chicken-pasta.md",
+    "docs/Random/one-pot-taco-rice.md",
+    "docs/Random/mexican-street-corn-chicken-orzo-bake.md",
     "docs/Random/lemon-boursin-shrimp-pasta.md",
     "docs/Random/lemon-boursin-salmon-pasta.md",
     "docs/index.md",
-    "README.md",
+    "docs/assets/choco-cookies.png",
+    "docs/assets/Pasted image 20261025174830.png",
     "docs/Sweets/index.md",
-    "docs/Japanese/index.md",
-    "docs/Sweets 1/index.md",
-    "docs/Sweets 1",
     "docs/Sweets",
-    "docs/Random/mexican-street-corn-chicken-orzo-bake.md",
-    "docs/Random/baked-feta-and-tomato-pasta.md",
     "Template.md",
-    "docs/Random/pesto-boursin-chicken-pasta.md",
+    "docs/Japanese/miso-katsu.md",
+    "README.md",
     "docs/javascripts/recipe-scaler.js",
     "docs/Random/chicken-enchilada-rice-bake.md",
+    "docs/Random/index.md",
     "docs/recipe-scaler.js",
+    "docs/assets/lemon-boursin-salmon-pasta.JPG",
     "conflict-files-obsidian-git.md",
     "docs/stylesheets/cookbook.css",
     "docs/stylesheets",
@@ -218,16 +230,19 @@
     "docs/javascripts",
     "docs/assets/miso-katsu.jpg",
     "docs/assets",
+    "docs/Japanese/gyudon.md",
     "assets/miso-katsu.jpg",
     "assets/Image (2).jpg",
     "assets",
-    "docs/Random/one-pot-taco-rice.md",
+    "New folder",
     "().md",
+    "docs/Japanese/index.md",
     "docs/Japanese/Miso-Katsu.md",
     "docs/Japanese/Gyudon.md",
     "docs/Template.md",
     "docs/Random/Mexican Street Corn Chicken Orzo Bake.md",
     "docs/Random/Chicken Bake, Meal prep idea.md",
-    "mk-docks.yaml.md"
+    "mk-docks.yaml.md",
+    "docs/Random/One pot Taco-Rice.md"
   ]
 }
