@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "0d894171b859e2e6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ce8d2e0fcc09fec",
+  "active": "0d894171b859e2e6",
   "lastOpenFiles": [
     "docs/Sweets/choc-chip-cookies.md",
     "docs/Random/baked-feta-and-tomato-pasta.md",
