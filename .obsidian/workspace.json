@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Sweets/index.md",
+                "file": "docs/index.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "0d894171b859e2e6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.5"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,8 +186,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d894171b859e2e6",
+  "active": "4ce8d2e0fcc09fec",
   "lastOpenFiles": [
+    "docs/Japanese/index.md",
+    "docs/index.md",
+    "README.md",
+    "Template.md",
+    "docs/Sweets/index.md",
     "docs/Sweets/choc-chip-cookies.md",
     "docs/Random/baked-feta-and-tomato-pasta.md",
     "docs/Random/pesto-boursin-chicken-pasta.md",
@@ -208,14 +200,10 @@
     "docs/Random/mexican-street-corn-chicken-orzo-bake.md",
     "docs/Random/lemon-boursin-shrimp-pasta.md",
     "docs/Random/lemon-boursin-salmon-pasta.md",
-    "docs/index.md",
     "docs/assets/choco-cookies.png",
     "docs/assets/Pasted image 20261025174830.png",
-    "docs/Sweets/index.md",
     "docs/Sweets",
-    "Template.md",
     "docs/Japanese/miso-katsu.md",
-    "README.md",
     "docs/javascripts/recipe-scaler.js",
     "docs/Random/chicken-enchilada-rice-bake.md",
     "docs/Random/index.md",
@@ -234,7 +222,6 @@
     "assets",
     "New folder",
     "().md",
-    "docs/Japanese/index.md",
     "docs/Japanese/Miso-Katsu.md",
     "docs/Japanese/Gyudon.md",
     "docs/Template.md",
