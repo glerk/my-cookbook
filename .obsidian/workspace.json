@@ -20,8 +20,33 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "0f66d1573b6fd1f8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.0"
+            }
+          },
+          {
+            "id": "70327e4221758e2f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.1"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ce8d2e0fcc09fec",
+  "active": "70327e4221758e2f",
   "lastOpenFiles": [
     "docs/Japanese/index.md",
     "docs/index.md",
