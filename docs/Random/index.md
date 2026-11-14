@@ -12,6 +12,9 @@ Easy meals, experiments, meal-prep ideas, and recipes that we liked enough to wr
   A hearty chicken and rice bake with enchilada flavors. 
   My grandpa used to always make this dish when we visited him back in Oklahoma, at his trailer park. Now that he croaked, I wanted to share this dish with the world, with each bite bringing another tear to our eyes. RIP Peepaw. 1959 - 2024. 
 
+- [Garlic Boursin Steak & Gnocchi Bake](garlic-boursin-steak-gnocchi-bake.md)
+  Story Pending..... 
+
 - [Lemon Boursin Salmon Pasta](lemon-boursin-salmon-pasta.md)
   A delicious salmon pasta oven bake meal prep. Back in Alaska, where I was born and raised, Mikiruk would take me fishing on the Koyukuk river in Yukon–Koyukuk. We'd make this dish afterwards! Just be careful of breaking the most important rule in the office: re-heating fish in the community microwave is a SIN. 
 
